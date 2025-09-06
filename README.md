@@ -77,10 +77,6 @@ Installation
 
 Make sure you have Python 3.x installed.
 
-Clone this repository:
-
-git clone https://github.com/yourusername/cs50-python-projects.git
-
 
 Navigate to the project folder:
 
